@@ -1,4 +1,4 @@
-readme.md:
-	echo "The Unix Workbench Project" >> readme.md
-	date >> readme.md
-	cat guessinggame.sh | wc -l >> readme.md
+README.md:
+	echo "The Unix Workbench Project" >> README.md
+	date >> README.md
+	cat guessinggame.sh | wc -l >> README.md
